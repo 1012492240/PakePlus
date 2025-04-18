@@ -1,8 +1,8 @@
 {
     "$schema": "https://schema.tauri.app/config/2",
-    "productName": "laikebao",
+    "productName": "laikebaoWechat",
     "version": "0.0.1",
-    "identifier": "laikebao",
+    "identifier": "laikebaoWechat",
     "app": {
         "security": {
             "csp": null,
